@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 Robotics<br>🛩️ Drones<br>📡 IoT<br>🧠Artificial Intelligence<br>🏁 Machine Learning<br>👨‍💻 Web Developer<br>
+🤖 Robotics<br>🛩️ Drones<br>📡 IoT<br>🧠 Artificial Intelligence<br>🏁 Machine Learning<br>👨‍💻 Web Developer<br>
 
 
 ## 🌐 Socials:
